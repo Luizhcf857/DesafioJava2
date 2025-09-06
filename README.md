@@ -19,8 +19,6 @@
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-- ☕ **Java 17+**
 - ⌨️ **Scanner** para entrada de dados
 - 📦 **ArrayList** para armazenamento em memória
 - 🧩 **POO** (Herança, Polimorfismo e Encapsulamento)
